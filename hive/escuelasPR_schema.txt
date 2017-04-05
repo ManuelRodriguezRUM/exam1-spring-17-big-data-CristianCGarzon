@@ -6,4 +6,3 @@ Tiene 7 columnas:
 4 - Nombre de la Escuela
 5 - Nivel de la Escuela (Superior, Secundaria, Elemental, Segunda Unidad)
 6 - Numero de Serie segun College Board Puerto Rico
-
